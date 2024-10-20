@@ -1,2 +1,2 @@
 # Mahjong
-Revamped mahjong game
+Revamped mahjong game against a 'bot'.
