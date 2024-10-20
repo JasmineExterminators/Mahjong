@@ -1,0 +1,2 @@
+# Mahjong
+Revamped mahjong game
